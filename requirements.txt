@@ -1,0 +1,10 @@
+streamlit==1.37.1
+xgboost==3.0.4
+pandas==2.1.4
+numpy==1.24.4
+Faker==18.13.0
+matplotlib==3.8.4
+shap==0.42.1
+numba==0.57.1
+pyarrow==14.0.2
+azure-storage-blob==12.27.1
